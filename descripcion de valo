@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Valorant</title>
+</head>
+<body>
+
+  <h1>Valorant</h1>
+
+  <h2>Breve descripción</h2>
+  <p>
+    Valorant es un juego de disparos en primera persona (FPS) táctico desarrollado por Riot Games.  
+    Su modo principal es 5 contra 5, donde dos equipos se enfrentan para colocar o desactivar la
+    “Spike”. Combina la precisión de un shooter clásico con habilidades especiales de personajes
+    llamados agentes.  
+    Desde su lanzamiento en 2020 se ha vuelto muy popular en el mundo de los eSports y en
+    plataformas de streaming.
+  </p>
+
+  <h2>Plataforma</h2>
+  <p>
+    Actualmente se juega en <strong>PC (Windows)</strong>. Riot Games ha anunciado planes para
+    versiones en consolas y dispositivos móviles en el futuro.
+  </p>
+
+  <h2>Características destacadas</h2>
+  <ul>
+    <li>Partidas tácticas 5 vs 5 con objetivos por rondas.</li>
+    <li>Agentes con habilidades únicas que cambian la estrategia de cada partida.</li>
+    <li>Actualizaciones frecuentes con nuevos mapas, agentes y contenido.</li>
+    <li>Competencias profesionales y torneos de eSports a nivel mundial.</li>
+  </ul>
+
+</body>
+</html>
